@@ -1,4 +1,4 @@
-# redux-example
+# Redux-example
 
 1 - Run npm i in path project.
 2 - Run json-server -p3003 products.json.
